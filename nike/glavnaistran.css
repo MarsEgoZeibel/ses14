@@ -1,0 +1,409 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "inter";
+}
+body{
+    background-color: rgb(24, 16,73 );
+}
+.page-1{
+    background-color: rgb(24, 16,73 );
+    width: 100%;
+    height: 850px;
+}
+.hapka{
+    display: flex;
+    padding-top: 10px;
+    gap:90px;
+}
+.logo{
+    width: 180px;
+    height: 80px;
+}
+.onas{
+    display: flex;
+    align-items: center;
+    gap:80px;
+}
+.katalog{
+    color:aliceblue;
+    font-size: 28px;
+    font-family: "inter";
+    text-decoration: none;
+}
+.nike-kolecken{
+    padding-top: 3%;
+    padding-left: 10%;
+    width: 560px;
+}
+.nike-god{
+    display: flex;
+    flex-direction: row;
+    gap:50px;
+    font-size: 105px;
+    font-family: "inter";
+}
+.nike{
+    color: aliceblue;
+}
+.god{
+    color:rgb(14, 174, 242);
+}
+.kolecken{
+    font-size: 102px;
+    font-family: "inter";
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+    -webkit-text-fill-color: transparent;
+}
+.cros-1{
+    width: 692px;
+    height: 779px;
+    position: relative;
+    bottom:60%;
+    left: 45%;
+}
+.elips-1{
+    width: 73px;
+    height: 62px;
+    position: relative;
+    bottom:110%;
+    left: 15%;
+}
+.polygon-1{
+    position: relative;
+    bottom:120%;
+    left: 35%;
+}
+.polygon-2{
+    position: relative;
+    bottom:60%;
+    right: 5%;
+}
+.elips-2{
+    position: relative;
+    bottom:55%;
+    left: 25%;
+}
+.page-2{
+    background: linear-gradient(rgba(24, 16,73),rgba(10, 8, 32));
+    width: 100%;
+    height: 1080px;
+}
+.line-1{
+    width: 100%;
+    position: relative;
+    bottom: 40%;
+}
+.line-2{
+    width: 100%;
+}
+.sale{
+    font-size: 64px;
+    color: rgb(136, 135, 204);
+    position: relative;
+    bottom: 18%;
+    transform: rotate(8deg);
+    word-spacing: 80px;
+}
+.retro{
+    font-size: 64px;
+    color: rgb(228, 134, 184);
+    bottom: 55%;
+    position: relative;
+    transform: rotate(355deg);
+    word-spacing: 80px;
+}
+.polgon{
+    position: relative;
+    bottom: 45%;
+    left: 50%;
+}
+.cercle{
+    position: relative;
+    bottom: 35%;
+    left: 80%;
+}
+.vovo{
+    font-size: 330px;
+    transform: rotate(270deg);
+    position: relative;
+    bottom: 60%;
+    right: 40%;
+    -webkit-text-stroke: 2px rgb(255, 255, 255, 0.2);
+    -webkit-text-fill-color: transparent;
+}
+.bigpol{
+    width: 450px;
+    height: 450px;
+    position: relative;
+    bottom: 68%;
+    left: 13%;
+}
+.mypreds{
+    width: 550px;
+    height: 80px;
+    position: relative;
+    bottom: 110%;
+    left: 55%;
+    font-size: 52px;
+    -webkit-text-stroke: 2px rgb(136,135,204);
+    -webkit-text-fill-color: transparent;
+}
+.sovremen{
+    color: aliceblue;
+    font-size: 48px;
+    width: 651px;
+    height: 80px;
+    position: relative;
+    bottom: 110%;
+    left: 55%;
+}
+.tak{
+    font-size: 24px;
+    color: rgb(55,51,84);
+    width: 640px;
+    height: 116px;
+    position: relative;
+    bottom: 105%;
+    left: 55%;
+}
+.elips-4{
+    position: relative;
+    bottom: 105%;
+    left: 70%;
+}
+.purpur{
+     width: 830px;
+     height: 830px;
+     position: relative;
+     bottom: 100%;
+     left: 6%;
+}
+.page-3{
+    background-color: rgb(10, 8, 32);
+    width: 100%;
+    height: 900px;
+}
+.konteiner-full{
+    position: relative;
+    bottom: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.konteiner-1{
+    width: 343px;
+    height: 700px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.cross-airmax{
+    width: 343px;
+    height: 290px;
+    background-color: rgb(150,50,88);
+    border-radius: 19px 19px 0px 0px;
+}
+.airtn{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    right: 25%;
+    bottom: 40%;
+}
+.natpi-airmax{
+    font-size: 28px;
+    padding-top: 25px;
+    padding-left: 65px;
+}
+.opisan-airmax{
+    font-size: 24px;
+    color: rgb(164,164,164);
+    padding-top: 20px;
+    padding-left: 35px;
+    width: 300px;
+}
+.buy{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(150,50,88);
+    border-radius: 16px;
+    border: none;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.prise{
+    color: aliceblue;
+    display: inline-block;
+    padding-top: 15px;
+    padding-left: 15px;
+    text-decoration: none;
+}
+.konteiner-2{
+    width: 343px;
+    height: 700px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.cross-airforce{
+    width: 343px;
+    height: 290px;
+    background-color: rgb(6,55,128);
+    border-radius: 19px 19px 0px 0px;
+}
+.natpi-airforce{
+    font-size: 24px;
+    padding-top: 25px;
+    padding-left: 65px;
+}
+.natpi-airkolab{
+    font-size: 20px;
+    padding-left: 25px;
+}
+.opisan-airforce{
+    font-size: 20px;
+    color: rgb(164,164,164);
+    padding-top: 25px;
+    padding-left: 35px;
+    width: 300px;
+}
+.buyy{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(6,54,127);
+    border-radius: 16px;
+    border: none;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.konteiner-3{
+    width: 343px;
+    height: 700px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.cross-dunk{
+    width: 343px;
+    height: 290px;
+    background-color: rgb(69,94,81);
+    border-radius: 19px 19px 0px 0px;
+}
+.natpi-dunk{
+    font-size: 24px;
+    padding-top: 25px;
+    padding-left: 120px;
+}
+.opisan-dunk{
+    font-size: 20px;
+    color: rgb(164,164,164);
+    padding-top: 40px;
+    padding-left: 35px;
+    width: 300px;
+}
+.buyyy{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(69,94,81);
+    border-radius: 16px;
+    border: none;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+@media (min-width: 1920px) {
+    .cros-1{
+    width: 890px;
+    height: 800px;
+    position: relative;
+    bottom: 60%;
+    left: 45%;
+    }
+    .sale {
+        font-size: 64px;
+        color: rgb(136, 135, 204);
+        position: relative;
+        bottom: 22%;
+        transform: rotate(7deg);
+        word-spacing: 80px;
+    }
+    .retro {
+        font-size: 64px;
+        color: rgb(228, 134, 184);
+        bottom: 59%;
+        position: relative;
+        transform: rotate(355deg);
+        word-spacing: 80px;
+    }
+    .cercle {
+        position: relative;
+        bottom: 40%;
+        left: 80%;
+    }
+    .vovo {
+        font-size: 330px;
+        transform: rotate(270deg);
+        position: relative;
+        bottom: 87%;
+        right: 40%;
+        -webkit-text-stroke: 2px rgb(255, 255, 255, 0.2);
+        -webkit-text-fill-color: transparent;
+    }
+    .bigpol {
+        width: 450px;
+        height: 450px;
+        position: relative;
+        bottom: 73%;
+        left: 12%;
+    }
+    .purpur {
+        width: 830px;
+        height: 830px;
+        position: relative;
+        bottom: 78%;
+        left: 6%;
+    }
+    .mypreds {
+        width: 700px;
+        height: 80px;
+        position: relative;
+        bottom: 110%;
+        left: 55%;
+        font-size: 64px;
+        -webkit-text-stroke: 2px rgb(136, 135, 204);
+        -webkit-text-fill-color: transparent;
+    }
+    .sovremen {
+        color: aliceblue;
+        font-size: 56px;
+        width: 763px;
+        height: 80px;
+        position: relative;
+        bottom: 110%;
+        left: 55%;
+    }
+    .tak {
+        font-size: 28px;
+        color: rgb(55, 51, 84);
+        width: 707px;
+        height: 116px;
+        position: relative;
+        bottom: 104%;
+        left: 55%;
+    }
+    .elips-4 {
+        position: relative;
+        bottom: 102%;
+        left: 71%;
+    }
+    .page-3 {
+        background-color: rgb(10, 8, 32);
+        width: 100%;
+        height: 1056px;
+    }
+    .konteiner-full {
+        position: relative;
+        bottom: 63%;
+        display: flex;
+        justify-content: space-around;
+    }
+}
